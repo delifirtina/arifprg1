@@ -1,2 +1,2 @@
-# arifprg1
-php tabanli programlama
+# InventoryManagement
+ php tabanli
